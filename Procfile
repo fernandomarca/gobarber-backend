@@ -1,1 +1,1 @@
-web: yarn start-js
+web: yarn start
