@@ -1,1 +1,1 @@
-web: yarn start-js
+web: ts-node src/shared/infra/http/server.ts
